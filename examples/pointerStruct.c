@@ -13,6 +13,8 @@ void print_emp(Employee *emp){
     printf("Name: %s\n", emp-> name);
 }
 
+//Another way of accessing fields within a structure besides the ->, is to use (*ep).field
+
 int main(){
     Employee Isaac = {1234, "Isaac"};
     print_emp(&Isaac);
