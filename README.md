@@ -1,6 +1,6 @@
 # PPP_Review
 
-## Repository containing suggested answers for all exercises related to the Procedural Programming Paradigms (PPP)classes from spring 2024 at University of Coimbra. You must have your own exercise sheets, since this repository don't provide them, as we want to avoid problems with the uni.
+### Repository containing suggested answers for all exercises related to the Procedural Programming Paradigms (PPP)classes from spring 2024 at University of Coimbra. You must have your own exercise sheets, since this repository don't provide them, as we want to avoid problems with the uni.
 
 # Naming Convention
 
@@ -21,7 +21,7 @@ Such as the name convention for the main program relates it to the listed number
 * Test answers
 * Support from the UC
 * People with patience working in it
-* Any portuguese people working in it, except Rodrigo, but he counts only as half portuguese.
+* Any portuguese people working in it, except Rodrigo, but he counts only as half portuguese, since he's a halfling.
 
 
 
