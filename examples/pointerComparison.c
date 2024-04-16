@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//This is a example of pointer comparison, a third property of pointer arithmetic.
+//This is a example of pointer comparison, a property of pointer arithmetic.
 
 int main(){
     int arr[] = {10, 20, 30, 40, 50};
