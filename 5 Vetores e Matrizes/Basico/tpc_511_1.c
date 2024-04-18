@@ -1,3 +1,6 @@
+//Author: Isaac Barbosa
+//Date: 18/04/2024
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
