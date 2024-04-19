@@ -12,7 +12,7 @@ Such as the name convention for the main program relates it to the listed number
 
 # What this repository have
 
-* It has a working answer to the exercised associated with each file
+* It has a working answer to the exercise associated with each file
 * The answers are peer-reviewed by other UC students.
 * In case there are multiple ways to solve an exercise, there'll be additional files (numbered, i.e tpc_922_1.c)
 
