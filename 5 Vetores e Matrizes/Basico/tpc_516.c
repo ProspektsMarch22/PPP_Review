@@ -3,8 +3,7 @@
 
 #include <stdio.h>
 
-
-//The int (*arr)[sizeRow] is a implementation due to the 'type expected is int (*)[n]' problem
+//The int (*arr)[sizeRow] is a implementation due to the 'type expected is int (*)[n]' problem. This occurs if you just put a arr[][] or similar as a parameter for the function
 
 void printTable(int sizeCol, int sizeRow, int (*arr)[sizeRow]){
     int i = 0;
