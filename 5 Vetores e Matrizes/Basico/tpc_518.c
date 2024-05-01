@@ -38,6 +38,6 @@ void mirrorMatrix(int size, char * header){
 }
 
 int main(){
-    mirrorMatrix(5, "Cidades");
+    mirrorMatrix(10, "countries");
     return 0;
 }
