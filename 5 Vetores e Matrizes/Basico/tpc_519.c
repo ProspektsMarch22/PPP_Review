@@ -1,3 +1,6 @@
+//Author: Isaac Barbosa
+//Date of last update: 08/05/2024
+
 #include <stdio.h>
 #include <string.h>
 
